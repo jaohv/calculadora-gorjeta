@@ -13,11 +13,10 @@ body{
 }
 
 #container {
-    height: 525px;
+    height: 480px;
     width: 360px;
     margin: 100px auto;
     background: #f7f7f7;
-    /*box-shadow: 5px 5px 5px var(--tertiary-color);*/
     border-radius: 20px;
 }
 
